@@ -1,4 +1,4 @@
-# Error-Correcting Neural Networks for Two-Dimensional Curvature Computation in the Level-Set Method
+# Error-correcting neural networks for two-dimensional curvature computation in the level-set method
 
 ### Contents
 
