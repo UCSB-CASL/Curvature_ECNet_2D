@@ -15,4 +15,4 @@ In addition to the usual `requirements.txt`, we include the following files unde
 
 ### Contact
 
-Please refer your questions to [this email](mailto:lal@cs.ucsb.edu).
+Please forward your questions to [this email](mailto:lal@cs.ucsb.edu).
