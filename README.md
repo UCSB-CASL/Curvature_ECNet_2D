@@ -1,5 +1,7 @@
 # Error-correcting neural networks for two-dimensional curvature computation in the level-set method
 
+This is the accompanying repository for our [manuscript](https://arxiv.org/abs/2201.12342).
+
 ### Contents
 
 In addition to the usual `requirements.txt`, we include the following files under the corresponding resolution folder within `models/`:
