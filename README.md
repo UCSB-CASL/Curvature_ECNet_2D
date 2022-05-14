@@ -14,6 +14,10 @@ In addition to the usual `requirements.txt`, we include the following files unde
 6. `k_std_scaler.pkl`: Standard scaler in `pickle` format.
 7. `k_std_scaler.json`: JSON version of standard scaler with plain-valued parameters.
 
+### Testing data sets
+
+The `flowers` directory contains the data sets we used for testing our curvature hybrid solvers.  The corresponding input files contain samples that have been reoriented per the description provided in the manuscript.  It is still necessary, though, that each sample be reflectect to take the average of two network evaluations.
+
 ### Contact
 
 Please forward your questions to [this email](mailto:lal@cs.ucsb.edu).
